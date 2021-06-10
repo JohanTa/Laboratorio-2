@@ -42,6 +42,7 @@ Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
       teniendo en consideracion el calculo de error para saber si los datos obtenidos son correctos.
 
   4. Respuesta a interrogantes y Calculo de error.
+  
   ![Captura](https://user-images.githubusercontent.com/81887698/121559234-07749100-c9dc-11eb-99a4-69d9ada67091.PNG)
 
   5. Video de YOUTUBE
