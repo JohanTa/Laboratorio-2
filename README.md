@@ -44,9 +44,15 @@ Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
   4. Respuesta a interrogantes y Calculo de error.
   
   ![Captura](https://user-images.githubusercontent.com/81887698/121559234-07749100-c9dc-11eb-99a4-69d9ada67091.PNG)
+![tabla 1](https://user-images.githubusercontent.com/81887698/121621609-184ff180-ca32-11eb-9292-df04a2862485.PNG)
+![calculo de error](https://user-images.githubusercontent.com/81887698/121621628-2140c300-ca32-11eb-9307-5311bfafe88a.PNG)
+![caculo de error 2](https://user-images.githubusercontent.com/81887698/121621632-243bb380-ca32-11eb-9e90-1f3f4fbeade1.PNG)
+
 
   5. Video de YOUTUBE
-
+ 
+  https://youtu.be/OvC1Q88M9fA
+  
   6. Conclusiones:
   
      - Con los conocimentos adquiridos sobre la ley de Ohm, se llevo a cavo la practica de este laboratorio, para poder obser como se cumple esta ley 
@@ -55,4 +61,5 @@ Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
      -LLegamos a la conclusión que a mayor volatje se le aplica mayor corriente por lo tanto mayor sera su intensidad, logramos comprobar mediante la construción del circuito.
      
   7. Bibliografías.
- 
+  
+ Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
