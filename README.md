@@ -43,7 +43,8 @@ Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
 
   4. Respuesta a interrogantes y Calculo de error.
   
-  ![Captura](https://user-images.githubusercontent.com/81887698/121559234-07749100-c9dc-11eb-99a4-69d9ada67091.PNG)
+  ![Primera parte](https://user-images.githubusercontent.com/81887698/121689877-c8514900-ca8a-11eb-9cbf-ec7ec2901237.PNG)
+
 ![tabla 1](https://user-images.githubusercontent.com/81887698/121621609-184ff180-ca32-11eb-9292-df04a2862485.PNG)
 ![calculo de error](https://user-images.githubusercontent.com/81887698/121621628-2140c300-ca32-11eb-9307-5311bfafe88a.PNG)
 ![caculo de error 2](https://user-images.githubusercontent.com/81887698/121621632-243bb380-ca32-11eb-9e90-1f3f4fbeade1.PNG)
