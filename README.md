@@ -36,7 +36,9 @@ Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
       
       3.5 Realizamos los calculos de voltaje en cada una de las resistencias dentro del circuito cerrado,tomando en consideracion que la resistencias estan 
       en un circuito cerrado.
-      ![WhatsApp Image 2021-06-10 at 10 51 39](https://user-images.githubusercontent.com/81887698/121558065-ee1f1500-c9da-11eb-86b3-2c39263f665f.jpeg)
+      
+      ![WhatsApp Image 2021-06-08 at 19 09 33](https://user-images.githubusercontent.com/81887698/121696407-a9a28080-ca91-11eb-9a21-1b6786150dbf.jpeg)
+
       
       3.6 Con los resulados obtenidos de cada uno de las resistencias del voltaje, realizamos la comparacion entre el calculo obtenido manual mente y simulada, 
       teniendo en consideracion el calculo de error para saber si los datos obtenidos son correctos.
