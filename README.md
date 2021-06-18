@@ -1,4 +1,3 @@
-![WhatsApp Image 2021-06-10 at 11 55 38](https://user-images.githubusercontent.com/81887698/122493087-aedd5f00-cfac-11eb-8cfd-dcfb5b6c1a8c.jpeg)
 # Laboratorio-2
 Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
 
