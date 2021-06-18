@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-06-10 at 11 55 38](https://user-images.githubusercontent.com/81887698/122493087-aedd5f00-cfac-11eb-8cfd-dcfb5b6c1a8c.jpeg)
 # Laboratorio-2
 Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
 
@@ -17,6 +18,7 @@ Integrantes: Nayeli Tisalema, Bryan Simbaña, Johan Taipicaña
     - Reconocer las propiedas que exiten en las conexiones del circuito en serie y en paralelo, y verificar la ley de Ohm con el análisis de nodos y mallas.
     
    2. Marco teorico
+![WhatsApp Image 2021-06-10 at 11 55 38](https://user-images.githubusercontent.com/81887698/122493093-b270e600-cfac-11eb-8940-c3c6a3ecd4b2.jpeg)
 
 
    3. Explicación del procedimiento
